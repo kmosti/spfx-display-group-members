@@ -1,4 +1,4 @@
 {
   "$schema": "https://dev.office.com/json-schemas/spfx-build/write-manifests.schema.json",
-  "cdnBasePath": "https://ateastavanger.azureedge.net/spfx-display-group-members"
+  "cdnBasePath": "https://redacted.azureedge.net/spfx-display-group-members"
 }

@@ -117,7 +117,7 @@ export default class DisplaySiteGroupMembers extends React.Component<IDisplaySit
           }
         }
       ];
-      view = <div>
+      view = <div className={styles.container}>
         <span className={styles.title}>{this.props.groupTitle}</span>
         <ListView
           items={this.state.rows}
